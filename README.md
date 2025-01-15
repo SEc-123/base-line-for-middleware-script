@@ -137,11 +137,5 @@ This repository contains Python scripts for performing baseline security checks 
 - **Incorrect file paths**:
   - Adjust file paths in the script to match your server’s directory structure.
 
----
 
-## Contributing
-Feel free to submit pull requests or report issues to improve these scripts.
-
-## License
-This project is licensed under the MIT License.
 
